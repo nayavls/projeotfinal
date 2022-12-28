@@ -1,0 +1,71 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 4px 3px 3px rgba(0, 0, 0, 0.753);
+    text-align: justify;  
+    font-family: Montserrat, sans-serif;    
+}
+.class
+h2 {
+    text-align: center;
+}
+
+.informacoes {
+    width: 50%;
+}
+
+.foto, .informacoes{
+    display: inline-block;
+    text-align: justify;
+    padding: 5px 5px 7px 25px;
+}
+.foto {
+    vertical-align: top;
+}
+footer{
+    width: 100%;
+    background-color:rgb(231, 222, 222);
+    font-size: 14px;
+    color:rgb(224, 20, 88); 
+}
+
+.ftco-footer-social li {
+    display: inline-block;
+    margin:  0px 10px 0px 0px;
+}
+
+.footer-heading {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    padding: 7px;
+}
+.form-control {
+    height: 52px;
+}
+li{
+    padding: 8px;
+}
+.foto img {
+    padding: 10px;
+}
+
+.list-unstyled a {
+    text-decoration: none;
+    color: black;
+}
+.ftco-footer-social a{
+   color: black;
+}
+.ftco-section a:hover{
+    color: rgb(224, 20, 88);
+}
+.containers-fluid a:hover{
+    color: rgb(231, 22, 57);
+}
